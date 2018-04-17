@@ -1,0 +1,145 @@
+                                /* solving responsive problems */
+
+@media (max-width:2000px)
+{
+	.fifthpart .bottom1,.fifthpart .bottom2{padding: 0px !important;
+}	
+.fifthpart{
+	margin: 0px !important;
+	margin: 40px 40px 0px 40px !important;
+}
+.bottom2 input {width: 60%;}	
+.fifthpart .bottom1{height: 163px; width: 40%;}
+.fifthpart .bottom2 {height: 163px; width: 100%;}	
+}
+@media  (min-width:993px) and (max-width:1310px){
+.navbar-nav{
+	margin-left: 166px;
+}	
+.tour1{
+    width: 90% !important;
+	margin: 0px; margin: auto;}
+.tour3{
+	margin-left: 115px !important
+}
+.tour4{
+	margin-left: 14px !important
+}
+#tour5{
+	margin: 0px !important;
+    margin-left: 120px !important;
+    margin-top: 20px !important;
+}
+.overlay2 h5 {
+	font-size: 16px;
+}
+.tour1,.tour2,.tour4{
+	margin-left: 100px !important;
+	}
+.featparent{
+	width: 80% !important;}
+}
+@media (min-width:576px) and (max-width:800px){
+.fifthpart .bottom1 {height: 163px; width: 40%;}
+.fifthpart .bottom2 {width: 100%;}	
+}
+
+@media (max-width:1350px){
+.featparent{
+width: 80% !important;	
+	}
+}
+
+@media  (min-width:1310px) and (max-width:1400px){
+.tour3,.tour4,	#tour5{    
+	margin: 0px ! important;
+    margin: 36px !important;}
+}
+                               /* start responsive  between size 576px  and 992*/
+@media (min-width:576px) and (max-width:992px){ 
+.fifthpart{
+	margin: 0px !important;
+    margin: 10px !important;
+	padding: 0px !important;
+}
+.bottom2 input {
+	width: 60%;
+}
+.fifthpart .bottom1, .fifthpart .bottom2 {
+    height: 163px;
+}
+.fifthpart .bottom1,.fifthpart .bottom2{
+	padding: 20px !important;
+}
+}
+                               /* start responsive  down  size  576px  */
+@media  (max-width:576px){
+.navbar-brand img {
+    margin: 0px !important;
+    margin: 10px 0px 16px 10px;		
+}
+.firstblock .part2 h1 {
+    font-size: 2.5rem !important;
+}
+.findingboat {margin-left: 5px;}
+.findingboat input{
+	width: 80%;
+	text-transform: lowercase;
+}	
+.findingboat button{margin-top: 20px;}
+.thirdpart .overlay h2{font-size: 1.5rem !important;}
+.topdestinations h3{font-size: 20px;}
+.topdestinations .imagetour{margin: 0px !important;
+	margin:10px 10px !important ;
+}
+.fifthpart .bottom1,.fifthpart .bottom2{padding: 0px !important;
+}	
+.fifthpart{
+	margin: 0px !important;
+	margin: 40px 40px 0px 40px !important;
+}
+.bottom2 input {width: 60%;}	
+.fifthpart .bottom1, .fifthpart .bottom2 {height: 163px;}
+}
+@media (min-width:320px) and (max-width:380px){
+.bottom2 button {
+    display: block;
+	width: 54%;
+	left: 0px !important;
+	left: 62px !important;
+}
+.bottom2 input{width: 113%;}
+.bottom2 ul li{
+	margin: 0px !important;
+	margin: 3px !important;
+}
+.fifthpart .bottom1{width: 100% !important;}
+.fifthpart .bottom2 {height: 180px;}
+}
+
+@media (max-width:991px) {
+.navbar-nav {
+	margin-left: 0px; 
+}
+.firstblock .part2 h1 {
+	font-size: 2rem !important;
+}
+.firstblock {
+	height: 700;
+}
+}
+
+
+
+@media  (min-width:576px) and (max-width:992px){
+	.tour1,.tour2,.tour3,.tour4,.tour5{margin: 0px !important;
+	/*margin: 32px !important;*/
+	width: 100% !important;}	
+	.feat1,.feat2,.feat3,.feat4{margin: 0px;}
+}
+
+@media (max-width:576px) {
+            #mylogin-fields{width: 100%;}
+           .myform h4{font-size: 14px;}
+            .flex-boxx{width:100%;}
+}
