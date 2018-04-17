@@ -1,2 +1,39 @@
-# NAVA-WEBSITE
-it 's a website of travel company 
+                                                  /* Documentation Of Nava Website*/
+this website is established for a travel company [NAVA]
+
+Basic mission of our website : make connection between clients who need boats to travel with boats company .
+                               make connection between employees who have boats and need to work in company.
+Technique used in this Task{ HTML5 ,CSS3 ,JS ,BOOTSTRAP ,JQUERY ,AJAX , JSON }
+**all jquery in file called ('scriptsJQ.js').
+**all pure scripts in file called ('scripts.js').
+**database type of json in  file called ('feat.json').
+**ajax api in file ('ajaxcall.js').
+
+                                                       /* HTML FILES */
+1-index.html
+###  FIRST SECTION  ###
+in our workflow first section contains connections between second section and third section to show most destination that people go 
+
+###  SECOND SECTION  ###
+it shows us the destinations and the times of travel to this destination 
+I used ajax api in this section depent on   "content.guardianapis.com"
+
+###  THIRD SECTION  ###
+it encourage person who need work to start work with nava
+
+###  FOURTH SECTION  ###
+it shows us FEATURED BOATS  and prices of every boat per day .
+ I used  JSON  and JQUERY technique in this stage to upload content without need to reload my page 
+
+###  FIFTH SECTION   ###
+it shows us footer of my website 
+
+2-Signup-Form
+it contains a form for sign up to our website .
+                                                   
+                                                     /*  CSS FILES */
+
+1-"css/bootstrap.css" ----------- bootstrap framework not changed .
+2-"css/bootstrapmodifyy.css"------------bootstrap framework had  changed . 
+3-"css/styles.css"------------ all styles that I need to put in coding .
+4-"css/responsive.css" ----------all styles I need to make website responsive from screen 2000 px to 320 px .
